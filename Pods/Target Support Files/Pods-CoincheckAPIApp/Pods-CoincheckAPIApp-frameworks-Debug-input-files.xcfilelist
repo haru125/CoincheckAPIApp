@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-CoincheckAPIApp/Pods-CoincheckAPIApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
